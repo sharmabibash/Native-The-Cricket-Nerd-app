@@ -1,4 +1,4 @@
-package com.thecricnerd
+package com.cricket
 
 import android.app.Application
 import com.facebook.react.PackageList
